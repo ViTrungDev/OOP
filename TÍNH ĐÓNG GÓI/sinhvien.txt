@@ -1,0 +1,15 @@
+SV001
+vi van trung
+10
+SV001
+tran thi c
+10
+SV001
+tran van a
+10
+SV001
+tran thi d
+3.5
+SV002
+hoang thi thuy
+7.4

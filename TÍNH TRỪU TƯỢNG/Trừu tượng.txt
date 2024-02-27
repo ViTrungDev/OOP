@@ -1,0 +1,5 @@
+IV. TÍNH TRỪU TƯỢNG
+Trừu tượng là quá trình chúng ta đi đơn giản hóa một đối tượng 
+-	Xác định các thuộc tính và phương thức cần thiết của một đối tượng đó để áp ứng cái yêu cầu cần thiết của chương trình tại thời điểm hiện tại 
+-	Tương đương với việc sàng lọc ra các tính chất và hình vi côt lõi của một đối tượng 
+
